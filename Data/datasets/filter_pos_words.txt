@@ -1,0 +1,6 @@
+like : 501
+good : 408
+well : 254
+great : 226
+love : 165
+work : 157

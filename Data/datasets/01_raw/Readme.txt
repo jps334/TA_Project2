@@ -1,0 +1,1 @@
+The datasets used were from the complete review sets from the Musical Instruments, Digital Music, Baby and Instant Video categoriess that can be obtained from this link: http://jmcauley.ucsd.edu/data/amazon/links.html
